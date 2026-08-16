@@ -1,0 +1,11 @@
+{
+  "name": "GreenCap Ghana",
+  "short_name": "GreenCap",
+  "icons": [
+    { "src": "assets/img/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#163C2E",
+  "background_color": "#F7F4EC",
+  "display": "standalone"
+}
