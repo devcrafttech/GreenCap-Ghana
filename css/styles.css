@@ -461,6 +461,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,
   border:1px solid var(--border-subtle);
   color:var(--text-heading);
   position:relative;
+  /* position: absolute; */
   transition:background-color .35s var(--ease-out), border-color .35s var(--ease-out), color .35s var(--ease-out), transform .35s var(--ease-elegant);
 
   @media (min-width: 1150px) {
