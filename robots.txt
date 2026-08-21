@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.greencapghana.com/sitemap.xml
+Sitemap: https://www.greencapgh.com/sitemap.xml
